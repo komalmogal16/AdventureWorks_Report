@@ -119,10 +119,11 @@ Monthly Trend measures using DATEADD and TOTALYTD
 ✅ Page navigation using bookmarks and buttons
 
 🧰 Tools & Technologies Used
-Tool	Purpose
-Power BI	Data Modeling & Visualization
-DAX	Calculated measures & KPIs
-AdventureWorks Dataset	Sales data simulation
+
+Power BI - Data Modeling & Visualization
+DAX - 	Calculated measures & KPIs
+AdventureWorks Dataset - Sales data simulation
+
 📈 KPIs Tracked
 Total Sales
 
